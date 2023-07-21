@@ -1,5 +1,5 @@
 // File: @openzeppelin/contracts/token/ERC20/IERC20.sol
-//staking contract by rio
+//staking contract by rio!
 // SPDX-License-Identifier: MIT
 // OpenZeppelin Contracts (last updated v4.6.0) (token/ERC20/IERC20.sol)
 //
